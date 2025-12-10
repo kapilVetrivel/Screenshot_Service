@@ -1,3 +1,5 @@
+My first attempt at vibecoding a windows app.
+
 # Screenshot Service
 
 A Windows application that runs in the background and allows you to take screenshots using the F12 hotkey. The application appears as a system tray icon and provides options for both full-screen and cropped screenshots.
@@ -131,5 +133,6 @@ If the build fails:
 - No data is transmitted to external servers
 
 ## License
+
 
 This project is open source and available under the MIT License. 
